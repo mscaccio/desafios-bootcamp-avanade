@@ -1,0 +1,16 @@
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.csproj.AssemblyReference.cache
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.AssemblyInfoInputs.cache
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.AssemblyInfo.cs
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\Console.exe
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\Console.deps.json
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\Console.runtimeconfig.json
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\Console.runtimeconfig.dev.json
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\Console.dll
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\ref\Console.dll
+C:\Users\mscaccio\Desktop\VSC\Console\bin\Debug\net5.0\Console.pdb
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.dll
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\ref\Console.dll
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.pdb
+C:\Users\mscaccio\Desktop\VSC\Console\obj\Debug\net5.0\Console.genruntimeconfig.cache
