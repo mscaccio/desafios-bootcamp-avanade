@@ -1,12 +1,19 @@
 ﻿using System;
+using static System.Console;
 
 class Desafios
 {
     static void Main(string[] args)
     {
-        // Desafios matemáticos em C# - 2 / 3 - Programa para Validação de Notas
-        // https://web.digitalinnovation.one/coding/desafios-matematicos-em-c/algorithm/programa-para-validacao-de-notas?back=/track/avanade-codeanywhere-net
+        // Desafios matemáticos em C#
+        WriteLine("2/3 - Programa para Validação de Notas");
         CalculaMedia();
+
+        Console.WriteLine();
+
+        //Desafios avançados em C#
+        WriteLine("1/3 - Teorema da Divisão Euclidiana");
+        DivisaoEuclidiana();
     }
 
     public static void CalculaMedia()
@@ -61,5 +68,28 @@ class Desafios
                 }
             }
         }
+    }
+
+    public static void DivisaoEuclidiana()
+    {
+        string[] valores = Console.ReadLine().Split();
+        int a = int.Parse(valores[0]);
+        int b = int.Parse(valores[1]);
+        int q, r;
+
+        q = a / b;
+        r = a % b;
+
+        if (r < 0)
+        {
+            double q1, r1 = 0.0;
+
+            r1 = r + Math.Sqrt(b * b);
+            q1 = (a - r1) / b;
+
+            Console.WriteLine("{0} {1}", q1, r1);
+        }
+        else
+            Console.WriteLine("{0} {1}", q, r);
     }
 }
